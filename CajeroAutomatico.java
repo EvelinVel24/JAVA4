@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CajeroAutomatico {  // El nombre de la clase coincide con el nombre del archivo
+public class CajeroAutomatico {  
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
